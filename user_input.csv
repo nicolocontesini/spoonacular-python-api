@@ -1,0 +1,21 @@
+QUERY,"KEY1,KEY2" (none for nothing, blank for quantities)
+cuisine,"Greek,Italian"
+excludeCuisine,"Mexican"
+diet,vegetarian
+intolerances,"none"
+includeIngredients,"none"
+excludeIngredients,"none"
+type,"main dish"
+maxReadyTime,
+minCalories,
+maxCalories,
+minCarbs,
+maxCarbs,
+minProtein,
+maxProtein,
+minFat,
+maxFat,
+minSugar,
+maxSugar,
+
+
